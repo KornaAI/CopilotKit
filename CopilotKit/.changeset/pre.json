@@ -18,6 +18,9 @@
     "tsconfig": "1.4.6"
   },
   "changesets": [
-    "long-poets-relax"
+    "long-poets-relax",
+    "seven-hats-attack",
+    "silent-terms-float",
+    "tricky-pots-notice"
   ]
 }

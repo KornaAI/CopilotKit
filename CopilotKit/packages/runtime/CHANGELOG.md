@@ -1,5 +1,25 @@
 # @copilotkit/runtime
 
+## 1.5.15-next.3
+
+### Patch Changes
+
+- c14f9db: - add headers handling to other LangGraphClients
+  - @copilotkit/shared@1.5.15-next.3
+
+## 1.5.15-next.2
+
+### Patch Changes
+
+- eb315bd: - fix: allow empty langsmith api key
+  - @copilotkit/shared@1.5.15-next.2
+
+## 1.5.15-next.1
+
+### Patch Changes
+
+- @copilotkit/shared@1.5.15-next.1
+
 ## 1.5.15-next.0
 
 ### Patch Changes
